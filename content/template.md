@@ -1,14 +1,14 @@
 ---
-title: "Colin Rubbert"
-date: "2020-08-16"
+title: "Code 4 Coder"
+date: "25-12-2020"
 categories:
-  - "english"
+  - "arabic"
 tags:
-  - "graphql"
-  - "nuxtjs"
-  - "gatsby"
-  - "nodejs"
-cover: "https://yt3.ggpht.com/ytc/AKedOLT6bzgQ1JbhjLCq5vn2b7lQG8qD-lDF_mK1y030KAU=s88-c-k-c0x00ffffff-no-rj"
+  - "flutter"
+  - "java"
+  - "dart"
+  - "programming"
+cover: "https://www.linkedin.com/in/mahir-abdalazim/"
 ---
 
-https://www.youtube.com/channel/UCzN9GrqP3be0aAWEhTfd_kw/videos
+https://www.youtube.com/channel/UCxL2qO4_d7chPRb0cUiiY_w/featured
